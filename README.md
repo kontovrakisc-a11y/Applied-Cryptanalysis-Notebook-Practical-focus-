@@ -7,7 +7,7 @@ A comprehensive collection of cryptographic primitives and cryptanalytic attacks
 ## 1. Symmetric Cryptography: AES Implementation
 A ground-up implementation of the **Advanced Encryption Standard (AES)** internal state transformations. This project focuses on the Substitution-Permutation Network (SPN) design.
 
-* **Core Primitives:** Manual implementation of `SubBytes` (S-box mapping), `ShiftRows`, `MixColumns` (GF($2^8$) polynomial multiplication), and `AddRoundKey`.
+* **Core Primitives:** Implementation of `SubBytes` (S-box mapping), `ShiftRows`, `MixColumns` (GF($2^8$) polynomial multiplication), and `AddRoundKey`.
 * **Cryptanalysis:** Understanding the importance of diffusion and confusion in block cipher security.
 
 
