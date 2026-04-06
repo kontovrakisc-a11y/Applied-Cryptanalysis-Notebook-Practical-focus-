@@ -1,3 +1,9 @@
+#Contact for the file with solutions to the CTF Challenges!
+
+
+
+
+
 # Cryptographic Implementation & Cryptanalysis Suite
 
 A comprehensive collection of cryptographic primitives and cryptanalytic attacks, bridging pure mathematical theory—Number Theory, Linear Algebra, and Group Theory—with practical computational security.
